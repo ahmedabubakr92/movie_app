@@ -1,5 +1,7 @@
 # Movie App
 
+**[Live Demo →](https://movie-app-three-olive-66.vercel.app)**
+
 A full-stack movie discovery app built with React and Vite. Search through thousands of movies powered by the TMDB API, with a trending section that tracks the most-searched movies in real time via Supabase.
 
 ![Hero Section](screenshots/hero.png)
